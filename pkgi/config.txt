@@ -8,4 +8,4 @@ sort name
 order asc
 filter USA
 install_psp_as_pbp 1
-install_psp_psx_location ixc0:
+install_psp_psx_location xmc0:
